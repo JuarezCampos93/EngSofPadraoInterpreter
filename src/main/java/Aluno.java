@@ -1,4 +1,4 @@
-public class Discente {
+public class Aluno {
     private double nota1;
     private double nota2;
 
